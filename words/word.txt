@@ -1,0 +1,6 @@
+html tags
+p - paragraph - პარაგრაფი
+u - underline - ქვედა ხაზი
+i - italic - დახრილი
+b - bold - გამუქებული
+t - title - სათაური
