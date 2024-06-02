@@ -25,5 +25,3 @@ elif group == 21:
     print("your mentor is daviti")
 else:
     print("your mentor is nika")
-
-
